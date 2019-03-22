@@ -35,7 +35,7 @@ Make sure to check off your items as you complete them. [ ] => [x]
 
 ## Day 3
 ### JS
-- [ ] Complete one of the folowing extensions 
+- [x] Complete one of the folowing extensions 
     - Create a button that randomly chooses only one gif from response.
     - Display all the images in the response to the screen.
     - Create a mail_to link that will email the gif to anyone you want.
